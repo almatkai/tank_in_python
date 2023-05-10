@@ -1,4 +1,10 @@
 # Two player tank game written in Python using PyGame
+<h2>Key Features</h2>
+<ul>
+  <li>Sound effects
+  <li>Smoother movement of tanks 
+  <li>Random maps(shown in the gameplay video)
+</ul>  
 <h3>Here is the gameplay</h3>
 
 
